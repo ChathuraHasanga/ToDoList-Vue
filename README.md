@@ -14,17 +14,17 @@ Local Storage: Used to persist tasks across sessions.
 CSS: Simple styling for the task list.
 Installation
 Clone the repository:
-
 git clone https://github.com/ChathuraHasanga/ToDoList-Vue.git
+
 Navigate to the project directory:
-
 cd ToDoList-Vue
+
 Install dependencies:
-
 npm install
-Run the application locally:
 
+Run the application locally:
 npm run serve
+
 The app will be available at http://localhost:5173.
 
 Usage
@@ -33,9 +33,11 @@ Edit a Task: Click on an existing task to edit it. Update the task name and pres
 Delete a Task: Click the trash icon next to any task to delete it.
 Count of Tasks: The total number of tasks and the number of completed tasks are shown at the top.
 Mark as Completed: You can mark tasks as completed by checking the checkbox next to the task.
-Demo
+
+Demo:
 You can view the live version of the app here.
 https://drive.google.com/file/d/1oZr3wbAf4UW77zFp_k6kia7c8Ivi84p-/view?usp=sharing
+
 ![image](https://github.com/user-attachments/assets/da6af4c2-19bd-4212-8688-005d8abeb5ba)
 
 Full code: https://drive.google.com/drive/folders/1xjG_dkkk1ohrXTGGFpPe1QcdB_uTTtxr?usp=sharing 
